@@ -24,8 +24,8 @@ import lime.graphics.Image;
 class Main extends Sprite
 {
 	var game = {
-		width: 1280, // WINDOW width
-		height: 720, // WINDOW height
+		width: 1280, // ANDROID width
+		height: 720, // ANDROID height
 		initialState: TitleState, // initial game state
 		zoom: -1.0, // game state bounds
 		framerate: 60, // default framerate
