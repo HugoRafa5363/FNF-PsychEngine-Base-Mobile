@@ -24,7 +24,7 @@ import lime.graphics.Image;
 class Main extends Sprite
 {
 	var game = {
-		width: 1280, // WINDOW width
+		width: 780, // WINDOW width
 		height: 720, // WINDOW height
 		initialState: TitleState, // initial game state
 		zoom: -1.0, // game state bounds
